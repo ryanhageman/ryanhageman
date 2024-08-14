@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">I like building flexible software that can change with people's evolving needs.</h3>
+<h1 align="center">Hi, I'm Ryan</h1>
+<h3 align="center">I like building flexible custom software that can change with people's evolving needs.</h3>
 
 - 🔭 Right now I’m working on [a custom HR app for UC Berkeley](https://www.erso.berkeley.edu/web/)
 
